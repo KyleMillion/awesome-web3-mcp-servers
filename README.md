@@ -116,7 +116,7 @@ DeFi MCP modules interact with DeFi protocols by abstracting their interfaces in
 - [collinsezedike/wormhole-mcp](https://github.com/collinsezedike/wormhole-mcp) - A TypeScript/Node.js Model Context Protocol (MCP) server that enables automatic transfer of tokens across multiple blockchains using the Wormhole SDK.
 
 
-- [thebrierfox/the-stall](https://github.com/thebrierfox/the-stall) - A remote MCP server with 191 pay-per-call tools spanning DeFi protocols, DEX analytics, yield farming, token security, and on-chain intelligence. Payments via x402/USDC — AI agents pay per call with no subscription.
+- [thebrierfox/the-stall](https://github.com/thebrierfox/the-stall) - A remote MCP server with 209 pay-per-call capabilities spanning DeFi protocols, DEX analytics, on-chain intelligence, market data, crypto news, and social signals. Payments via x402/USDC — AI agents pay per call with no subscription.
 ### 📊 <a name="market-data"></a>Market Data
 
 Market Data MCP modules retrieve real-time market data from on-chain and off-chain sources via unified query interfaces.
